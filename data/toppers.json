@@ -1,0 +1,38 @@
+[
+  {
+    "id": "t1",
+    "student_name": "Aarav Sharma",
+    "year": 2025,
+    "exam_name": "IIT-JEE Mains",
+    "score_or_rank": "AIR 452",
+    "quote": "Indu Ma'am's concept clarity made physics my strongest subject.",
+    "image_url": "/images/toppers/topper1.jpg"
+  },
+  {
+    "id": "t2",
+    "student_name": "Riya Singh",
+    "year": 2024,
+    "exam_name": "NEET",
+    "score_or_rank": "175 / 180 (Physics)",
+    "quote": "The Level 3 modules in the Star Batch are exact matches for NEET physics.",
+    "image_url": "/images/toppers/topper2.jpg"
+  },
+  {
+    "id": "t3",
+    "student_name": "Karan Verma",
+    "year": 2024,
+    "exam_name": "CBSE Boards",
+    "score_or_rank": "99/100",
+    "quote": "Step-by-step numerical solving was the key to my board score.",
+    "image_url": "/images/toppers/topper3.jpg"
+  },
+  {
+    "id": "t4",
+    "student_name": "Neha Gupta",
+    "year": 2023,
+    "exam_name": "NEET",
+    "score_or_rank": "170 / 180 (Physics)",
+    "quote": "The constant doubt support helped me overcome my weak areas.",
+    "image_url": "/images/toppers/toppe4.jpg"
+  }
+]

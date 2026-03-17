@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rev1",
+    "student_name": "Priya Dashboard",
+    "batch_year": "2023-24 Star Batch",
+    "star_rating": 5,
+    "review_text": "Learning Physics from Indu Tyagi Ma’am is truly exceptional. Her teaching style makes complex concepts feel simple. The regular doubt sessions and progressive module levels prepared me beautifully.",
+    "image_url": "/images/reviews/review1.jpg"
+  },
+  {
+    "id": "rev2",
+    "student_name": "Aryan Khanna (Parent)",
+    "batch_year": "2024 Normal Batch",
+    "star_rating": 5,
+    "review_text": "The personal attention provided here is unmatched. The structured syllabus and frequent tests gave us a clear track of our son's progress.",
+    "image_url": "/images/reviews/Screenshot 2026-03-15 230608.png"
+  },
+  {
+    "id": "rev3",
+    "student_name": "Sanya Malhotra",
+    "batch_year": "2022 Star Batch",
+    "star_rating": 5,
+    "review_text": "The best physics coaching in Delhi NCR. Highly recommended for JEE preparation.",
+    "image_url": "/images/reviews/review2.jpg"
+  }
+]
