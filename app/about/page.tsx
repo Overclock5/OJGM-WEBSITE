@@ -8,7 +8,7 @@ export default function About() {
     <div className="bg-white min-h-screen pb-24">
       {/* Header */}
       <section className="bg-slate-900 py-20 text-center px-4">
-        <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-6">About Indu Tyagi</h1>
+        <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-6">About Indu Tyagi Ma'am</h1>
         <p className="text-xl text-slate-300 max-w-2xl mx-auto">Gold Medalist Physics Educator dedicated to turning complex concepts into top academic ranks.</p>
       </section>
 
