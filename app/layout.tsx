@@ -65,7 +65,7 @@ export default function RootLayout({
         
         {/* Floating Contact Button */}
         <a 
-          href="https://wa.me/919999999999" 
+          href="https://wa.me/919266597895" 
           target="_blank" 
           rel="noopener noreferrer"
           className="fixed bottom-6 right-6 bg-emerald-500 text-white p-4 rounded-full shadow-[0_0_20px_rgba(16,185,129,0.5)] hover:bg-emerald-400 hover:scale-110 transition-all z-50 flex items-center justify-center"
