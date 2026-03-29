@@ -38,8 +38,8 @@ const Footer = () => {
             <h3 className="text-white font-semibold mb-4 uppercase text-sm tracking-wider">Contact Info</h3>
             <ul className="space-y-2 text-sm">
               <li>📍 Delhi NCR, India</li>
-              <li>📞 +91 99999 99999</li>
-              <li>✉️ info@ojgmchhavic.com</li>
+              <li>📞 +91 9266597895</li>
+              <li>✉️ ojgmindutyagimaam.com</li>
             </ul>
           </div>
         </div>

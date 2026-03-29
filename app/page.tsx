@@ -47,7 +47,7 @@ export default function Home() {
           </h1>
           
           <p className="mt-4 text-xl md:text-2xl text-slate-300 max-w-3xl mb-12 leading-relaxed font-light">
-            Building Strong Foundations in Physics. Join Gold Medalist Indu Tyagi to master IIT-JEE Mains, NEET, and Board Exams.
+            Building Strong Foundations in Physics. Join college topper, University ranker Indu Tyagi Ma'am to master IIT-JEE Mains, NEET, and Board Exams CBSE/ICSE (all state boards).
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6 w-full sm:w-auto">
@@ -82,10 +82,10 @@ export default function Home() {
             </div>
             <div className="lg:w-1/2 space-y-8">
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 leading-tight">
-                Meet Your Mentor, <br /> <span className="text-emerald-500">Indu Tyagi</span>
+                Meet Your Mentor, <br /> <span className="text-emerald-500">Indu Tyagi Ma'am</span>
               </h2>
               <p className="text-lg text-slate-600 leading-relaxed">
-                As a Gold Medalist physics educator, Indu Ma'am brings over two decades of transformative teaching experience. Her philosophy is simple: master the concepts first, and the ranks will follow.
+                As a College Topper, Indu Ma'am brings over two decades of transformative teaching experience. Her philosophy is simple: master the concepts first, and the ranks will follow.
               </p>
               <ul className="space-y-4 text-slate-700">
                 <li className="flex items-center gap-3">

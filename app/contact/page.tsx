@@ -84,14 +84,14 @@ export default function Contact() {
                       <div className="p-3 bg-slate-800 rounded-lg"><Phone className="w-6 h-6 text-emerald-400" /></div>
                       <div>
                         <h4 className="font-semibold text-slate-300">Phone & WhatsApp</h4>
-                        <p className="text-slate-400 mt-1">+91 99999 99999</p>
+                        <p className="text-slate-400 mt-1">+91 9266597895</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="p-3 bg-slate-800 rounded-lg"><Mail className="w-6 h-6 text-emerald-400" /></div>
                       <div>
                         <h4 className="font-semibold text-slate-300">Email</h4>
-                        <p className="text-slate-400 mt-1">info@ojgmchhavic.com</p>
+                        <p className="text-slate-400 mt-1">ojgmindutyagimaam.com</p>
                       </div>
                     </div>
                   </div>

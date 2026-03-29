@@ -9,7 +9,7 @@ export default function About() {
       {/* Header */}
       <section className="bg-slate-900 py-20 text-center px-4">
         <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-6">About Indu Tyagi Ma'am</h1>
-        <p className="text-xl text-slate-300 max-w-2xl mx-auto">Gold Medalist Physics Educator dedicated to turning complex concepts into top academic ranks.</p>
+        <p className="text-xl text-slate-300 max-w-2xl mx-auto">Physics Educator dedicated to turning complex concepts into top academic ranks.</p>
       </section>
 
       {/* Main Profile Sector */}
@@ -28,7 +28,7 @@ export default function About() {
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
                <h3 className="font-bold text-xl text-slate-900 mb-2">Indu Tyagi</h3>
                <p className="text-emerald-600 font-medium mb-4">Founder & Lead Educator</p>
-               <div className="flex items-center gap-2 text-slate-600"><Award className="w-5 h-5 text-yellow-500"/> Gold Medalist in Physics</div>
+               <div className="flex items-center gap-2 text-slate-600"><Award className="w-5 h-5 text-yellow-500"/> College Topper in Physics</div>
             </div>
           </div>
 
@@ -40,7 +40,7 @@ export default function About() {
                   Since founding OJGM CHHAVIC CLASSES in 2003, Indu Ma'am has maintained a singular focus: to demystify physics for Class XI and XII students. Physics is often feared for its heavy reliance on mathematics and abstract thinking. Her approach actively breaks down these barriers.
                 </p>
                 <p className="mb-4">
-                  As a Gold Medalist, she brings a profound mastery of the subject, but her real strength lies in her pedagogy. She believes that formulas are secondary; understanding the 'why' behind a phenomenon is what builds true problem-solving capabilities required for exams like IIT-JEE and NEET.
+                  As a University Topper, she brings a profound mastery of the subject, but her real strength lies in her pedagogy. She believes that formulas are secondary; understanding the 'why' behind a phenomenon is what builds true problem-solving capabilities required for exams like IIT-JEE and NEET.
                 </p>
               </div>
             </div>
