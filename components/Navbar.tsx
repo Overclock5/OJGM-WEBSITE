@@ -23,7 +23,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center gap-2">
               <span className="text-2xl font-extrabold text-white tracking-tight">
-                OJGM <span className="text-emerald-400">CHHAVIC</span>
+                OJGM <span className="text-emerald-400">CHHAVIC CLASSES</span>
               </span>
             </Link>
           </div>

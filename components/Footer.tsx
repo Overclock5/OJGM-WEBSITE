@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-1">
             <span className="text-2xl font-extrabold text-white tracking-tight block mb-4">
-              OJGM <span className="text-emerald-400">CHHAVIC</span>
+              OJGM <span className="text-emerald-400">CHHAVIC CLASSES</span>
             </span>
             <p className="text-sm mb-4">
               Premier physics coaching institute in Delhi NCR providing preparation for IIT-JEE Mains, NEET, and Boards since 2003.
